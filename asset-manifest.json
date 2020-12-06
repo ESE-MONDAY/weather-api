@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ESE-MONDAY/weather-api/static/css/main.0b0564d1.chunk.css",
+    "main.js": "/ESE-MONDAY/weather-api/static/js/main.39eb62e2.chunk.js",
+    "main.js.map": "/ESE-MONDAY/weather-api/static/js/main.39eb62e2.chunk.js.map",
+    "runtime-main.js": "/ESE-MONDAY/weather-api/static/js/runtime-main.a4c56974.js",
+    "runtime-main.js.map": "/ESE-MONDAY/weather-api/static/js/runtime-main.a4c56974.js.map",
+    "static/js/2.ed19972f.chunk.js": "/ESE-MONDAY/weather-api/static/js/2.ed19972f.chunk.js",
+    "static/js/2.ed19972f.chunk.js.map": "/ESE-MONDAY/weather-api/static/js/2.ed19972f.chunk.js.map",
+    "static/js/3.896fcded.chunk.js": "/ESE-MONDAY/weather-api/static/js/3.896fcded.chunk.js",
+    "static/js/3.896fcded.chunk.js.map": "/ESE-MONDAY/weather-api/static/js/3.896fcded.chunk.js.map",
+    "index.html": "/ESE-MONDAY/weather-api/index.html",
+    "static/css/main.0b0564d1.chunk.css.map": "/ESE-MONDAY/weather-api/static/css/main.0b0564d1.chunk.css.map",
+    "static/js/2.ed19972f.chunk.js.LICENSE.txt": "/ESE-MONDAY/weather-api/static/js/2.ed19972f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c56974.js",
+    "static/js/2.ed19972f.chunk.js",
+    "static/css/main.0b0564d1.chunk.css",
+    "static/js/main.39eb62e2.chunk.js"
+  ]
+}
