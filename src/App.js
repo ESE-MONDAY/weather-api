@@ -10,7 +10,7 @@ import Home from './home';
 function App() {
   
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
        <div>
         
         <Menu />
